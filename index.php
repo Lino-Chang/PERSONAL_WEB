@@ -89,6 +89,11 @@
                     <h3>years of experience</h3>
                 </div>
 
+                <div class="box">
+                    <span>4</span>
+                    <h3>years of experience</h3>
+                </div>
+
 
             </div>
         </div>
