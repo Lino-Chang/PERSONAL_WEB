@@ -6,6 +6,8 @@
     --yellow:#f9ca24;
     --blue:#8E9BAE;
     --grey:#976666;
+    --dark_blue:#7A848D;
+
 
 }
   
@@ -127,16 +129,11 @@ header .user img{
 
 header .user .name{
     font-size: 3.5rem;
-    color:#fff;
+    color:var(--dark_blue);
 
 }
 
 
-header .user .post{
-    font-size: 2rem;
-    color:#fff;
-
-}
 
 
 header .navbar{
@@ -195,7 +192,7 @@ header .navbar ul li a:hover{
     color: #fff;
 }
 
-.home p{
+.home h2{
     font-size: 2rem;
     color: #fff;
     padding: 1rem 0 ;
@@ -210,7 +207,7 @@ header .navbar ul li a:hover{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    padding: 1rem 0;
+    padding: 4rem 0;
 
 }
 
@@ -221,7 +218,7 @@ header .navbar ul li a:hover{
 }
 
 .about .row .info h3{
-    font-size: 4rem;
+    font-size: 2.5rem;
     color: var(--grey);
     padding: 1rem 0;
     font-weight: normal;
@@ -237,7 +234,7 @@ header .navbar ul li a:hover{
  }
 
 .about .row .counter{
-    flex: 1 1 48rem;
+    flex: 1 1 56rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -246,7 +243,7 @@ header .navbar ul li a:hover{
  }
 
  .about .row .counter .box{
-    width: 20rem;
+    width: 24rem;
     background: #e0e5df;
     text-align: center;
     padding: 2rem;
@@ -255,13 +252,14 @@ header .navbar ul li a:hover{
  }
 
  .about .row .counter .box span{
-    font-size: 4rem;
+    font-size: 6rem;
     color:var(--grey) ;
  }
 
  .about .row .counter .box h3{
-    font-size: 2rem;
-    color:#fff ;
+    padding: 2.5rem;
+    font-size: 3rem;
+    color:	#006000 ;
  }
 
 
@@ -292,14 +290,14 @@ header .navbar ul li a:hover{
 }
 
 .education .box-countainer .box h3{
-    font-size: 2em;
+    font-size: 2.2em;
     color: #fff;
     padding-top: 1.5rem;
 
 }
 
 .education .box-countainer .box p{
-    font-size: 1.4em;
+    font-size: 2em;
     color: #fff;
     padding: 1rem 0;
 

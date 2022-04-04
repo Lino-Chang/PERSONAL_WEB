@@ -3,7 +3,7 @@
 <head>
     <meta charset = "utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Personal Website</title>
+	<title>Lino Personal Website</title>
 
     <!-- font awesome sdn link-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -20,7 +20,6 @@
         <div class="user">
             <img src="images/pic2.jpg" alt="">
             <h3 class ="name" >Lino Chang</h3>
-            <p class="post">front end developer</p>
         </div>
 
         <nav class="navbar"> 
@@ -44,7 +43,7 @@
     <section class="home" id="home">
         <h3>HI THERE !</h3>
         <h1>I'M <span>Lino Chang</span></h1>
-        <p>您好，我是張家豪，具良好的溝通協調、分析能力，具積極主動的工作態，並願意投入成本與時間學習新的技能。</p>
+        <h2>您好，我是張家豪，具良好的溝通協調、分析能力，具積極主動的工作態度，並願意投入成本與時間學習新的技能。</h2>
         <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
     </section>
 
@@ -58,33 +57,34 @@
 
         <div class="row">
             <div class="info">
-                <h3><span>name:</span>Lino Chang</h3>
-                <h3><span>age:</span>22</h3>
-                <h3><span>langugae:</span>Chinese</h3>
-                <a href="#"><button class="btn">Download CV <i class="fas fa-download"></i></button></a>
+                <h3><span>姓名:</span>張家豪</h3>
+                <h3><span>學歷:</span>國立臺北護理健康大學 資訊管理系</h3>
+                <h3><span>希望職類:</span>軟體設計工程師 測試工程師</h3>
+                <h3><span>專長:</span>C++ Java Html CSS</h3>
+                <a href="CV.pdf" target="_blank"><button class="btn">Download CV <i class="fas fa-download"></i></button></a>
                 
             </div>
         
 
             <div class="counter">
                 <div class="box">
-                    <span>4</span>
-                    <h3>years of experience</h3>
+                    <span>4+</span>
+                    <h3>編譯經驗</h3>
                 </div>
 
                 <div class="box">
-                    <span>4</span>
-                    <h3>years of experience</h3>
+                    <span>3+</span>
+                    <h3>學術投稿</h3>
                 </div>
 
                 <div class="box">
-                    <span>4</span>
-                    <h3>years of experience</h3>
+                    <span>6+</span>
+                    <h3>專案製作</h3>
                 </div>
 
                 <div class="box">
-                    <span>4</span>
-                    <h3>years of experience</h3>
+                    <span>10+</span>
+                    <h3>比賽經驗</h3>
                 </div>
 
             </div>
@@ -100,31 +100,67 @@
 
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
-                <span>2016</span>
+                <span>2016/09 - 2018/06</span>
                 <h3>內湖高工</h3>
                 <p>資訊科</p>
             </div>
 
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
-                <span>2016</span>
-                <h3>內湖高工</h3>
-                <p>資訊科</p>
+                <span>2018/9 - 2022/6</span>
+                <h3>國立臺北護理健康大學</h3>
+                <p>資訊管理系</p>
             </div>
 
             <div class="box">
-                <i class="fas fa-graduation-cap"></i>
-                <span>2016</span>
-                <h3>內湖高工</h3>
-                <p>資訊科</p>
+
             </div>
 
             <div class="box">
-                <i class="fas fa-graduation-cap"></i>
-                <span>2016</span>
-                <h3>內湖高工</h3>
-                <p>資訊科</p>
+            <i class="fa-solid fa-crown"></i>
+                <span>110</span>
+                <h3>資訊應用服務創新競賽 </h3>
+                <p>第二名</p>
             </div>
+
+            <div class="box">
+            <i class="fa-solid fa-crown"></i>
+                <span>110</span>
+                <h3> 新創盃-網路行銷組  </h3>
+                <p>第三名</p>
+            </div>
+
+            <div class="box">
+            <i class="fa-solid fa-crown"></i>
+                <span>110</span>
+                <h3> 「H & H」提案競賽  </h3>
+                <p>佳作</p>
+            </div>
+
+            <div class="box">
+            <i class="fa-solid fa-pen"></i>
+                <span>110</span>
+                <h3> 品質管理年會研討會   </h3>
+                <p>論文發表</p>
+            </div>
+
+            <div class="box">
+            <i class="fa-solid fa-pen"></i>
+                <span>110</span>
+                <h3> 健康促進學術研討會    </h3>
+                <p>壁報論文發表</p>
+            </div>
+
+            <div class="box">
+            <i class="fa-solid fa-pen"></i>
+                <span>109</span>
+                <h3> 醫護與健康科技研討會    </h3>
+                <p>壁報論文發表</p>
+            </div>
+
+
+
+           
 
         </div>
     </section>
@@ -175,12 +211,12 @@
             <div class="content">
                 <h3 class="title">content info</h3>
                 <div class="info">
-                    <h3><i class="fas fa-envelope"></i> linos81610@gmail.com</h3>
+                    <h3><i class="fas fa-envelope"></i> linoshao81610@gmail.com</h3>
                     <h3><i class="fas fa-map-marker-alt"></i> 新莊 新北</h3>
                 </div>
             </div>
 
-            <form action = " " method = "GET">
+            <form action = " " method = "POST">
                 <input type = "text" placeholder ="name" name = "name" class = "box" >
                 <input type = "email" placeholder ="email" name = "email" class = "box" >
                 <input type = "text" placeholder ="project" name = "project" class = "box" >
@@ -229,18 +265,19 @@
 </script> 
 
 <?php
-	  if(isset($_GET["name"])&&isset($_GET["email"]))
+	  if(isset($_POST["name"])&&isset($_POST["email"]))
       {
-        if(empty($_GET["name"])||empty($_GET["email"]))
+        if(empty($_POST["name"])||empty($_POST["email"]))
         {
-          echo "<br>請輸入";
+          echo "<script>alert('請輸入姓名與電子信箱');</script>";
         }
         else
         {
-            $name = $_GET["name"];
-            $email = $_GET["email"];
-            $project = $_GET["project"];
-            $message = $_GET["message"];
+            echo "<script>alert('成功送出');</script>";
+            $name = $_POST["name"];
+            $email = $_POST["email"];
+            $project = $_POST["project"];
+            $message = $_POST["message"];
           
         }
   
@@ -256,31 +293,12 @@
 </script>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- firebase endss -->
 
 <!-- scroll top buttom -->
 <a href="#home" class="top">
     <img src="images/scroll-top-img.png" alt="">
 </a>
-
-
-
-
-
 
     <!-- jquery cdn link -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
