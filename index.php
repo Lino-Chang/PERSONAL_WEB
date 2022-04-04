@@ -90,6 +90,7 @@
             </div>
         </div>
     </section>
+<!-- about section ends -->
 
 <!-- education section starts -->
 
@@ -174,27 +175,27 @@
         <div class="box-countainer">
 
             <div class="box">
-                <img src="images/1-2.jpg" alt="">
+                <a href= "portfolio/人工智慧應用-基於卷積神經網路於肺炎辨識之研究.pdf" target ="_blank"><img src="images/ai.jpg" alt=""></a>
             </div>
 
             <div class="box">
-                <img src="images/2-1.jpg" alt="">
+                <a href= "portfolio/系統分析應用-e-Portfolio數位學習歷程系統分析.pdf" target ="_blank"><img src="images/system.jpg" alt=""></a>
             </div>
 
             <div class="box">
-                <img src="images/2-1.jpg" alt="">
+                <a href= "portfolio/系統分析應用-新冠肺炎疫情即時通報系統需求分析.pdf" target ="_blank"><img src="images/covid.png" alt=""></a>
             </div>
 
             <div class="box">
-                <img src="images/1.jpg" alt="">
+                <a href= "portfolio/商業分析應用-環球晶圓有限股份公司分析.pdf" target ="_blank"><img src="images/Business.jpg" alt=""></a>
             </div>
 
             <div class="box">
-                <img src="images/1.jpg" alt="">
+            <a href= "portfolio/app final.pdf" target ="_blank"><img src="images/dog.jfif" alt=""></a>
             </div>
 
             <div class="box">
-                <img src="images/1.jpg" alt="">
+            <a href= "portfolio/R final.pdf" target ="_blank"><img src="images/analysis.jfif" alt=""></a>
             </div>
 
         </div>
