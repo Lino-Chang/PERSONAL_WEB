@@ -175,7 +175,7 @@
         <div class="box-countainer">
 
             <div class="box">
-                <a href= "portfolio/人工智慧應用-基於卷積神經網路於肺炎辨識之研究.pdf" target ="_blank"><img src="images/ai.jpg" alt=""></a>
+                <a href= "portfolio/人工智慧應用-基於卷積神經網路於肺炎辨識研究.pdf" target ="_blank"><img src="images/ai.jpg" alt=""></a>
             </div>
 
             <div class="box">
