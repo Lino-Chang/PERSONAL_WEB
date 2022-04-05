@@ -264,7 +264,7 @@ header .navbar ul li a:hover{
 
 
 .education .box-countainer{
-    display: flex;
+    display: flx;
     align-items: center;
     justify-content:space-between;
     flex-wrap: wrap;
