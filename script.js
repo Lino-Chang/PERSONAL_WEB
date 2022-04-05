@@ -3,7 +3,7 @@ $(document).ready(function(){
 
     $('#menu').click(function(){
         $(this).toggleClass('fa-times');
-        $('heaer').toggleClass('toggle');
+        $('header').toggleClass('toggle');
     });
 
     $(window).on('scroll load' ,function(){
